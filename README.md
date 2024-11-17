@@ -4,7 +4,7 @@ Spring Boot 프로젝트 개발을 위한 재사용 가능한 템플릿입니다
 
 ## 구현 현황
 
-- [] 프로젝트 기본 설정
+- [ ] 프로젝트 기본 설정
 
 ## 활용할 기술
 
@@ -31,3 +31,8 @@ Spring Boot 프로젝트 개발을 위한 재사용 가능한 템플릿입니다
 여러분의 참여로 이 프로젝트는 더욱 발전할 수 있습니다!
 
 ## [작업 문서](https://jinyshin.notion.site/Spring-Boot-Boilerplate-1414cff7232680af8033ddf44b2c773c?pvs=4)
+
+### 예시 프로젝트
+
+- [Spring Boot API boilerplate
+  ](https://github.com/Treblle/springboot-api-boilerplate/tree/main)
