@@ -78,8 +78,12 @@ docker-compose up -d
 ## 구현 현황
 
 - [x] 프로젝트 기본 설정
-- [ ] 사용자 인증/인가 시스템
+  - [x] Dockerfile, docker-compose.yml 작성
+  - [x] Spring Actuator /health API 테스트
+  - [x] MySQL DB 연결 테스트
+  - [ ] Swagger 적용
 - [ ] 게시판 기능
+- [ ] 사용자 인증/인가 시스템
 - [ ] 파일 관리 시스템
 - [ ] 캐시 관리
 - [ ] 배치 작업
